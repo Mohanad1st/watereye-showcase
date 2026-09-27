@@ -2,7 +2,7 @@
 
 <p align="center"><b>Read an analogue water gauge from a phone photo, no smart meter needed</b></p>
 
-<p align="center" dir="rtl" lang="ar">قراءة عدّادات المياه التناظرية من صورة بالهاتف، دون الحاجة إلى عدّاد ذكي</p>
+<p align="center" dir="rtl" lang="ar">قراءة مقاييس الضغط والتدفق التناظرية من صورة بالهاتف، دون الحاجة إلى عدّادات ذكية</p>
 
 <p align="center"><b>Status:</b> Field pilot · one village since June 2026 · accuracy not yet measured &nbsp;·&nbsp; <b>Built by</b> <a href="https://github.com/Mohanad1st">Mohannad Hesham</a></p>
 
